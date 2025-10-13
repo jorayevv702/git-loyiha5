@@ -1,0 +1,235 @@
+.ok{
+background-color: black;
+
+
+}
+body{
+background-color: black;
+
+
+}
+ul > li>a{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 18px;
+
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+text-decoration: none;
+color:  #E4E4E4;
+
+}
+ul > li{
+list-style: none;
+
+}
+ul{
+display: flex;
+justify-content: space-evenly;
+
+}
+ul > li>a:hover{
+border-bottom: 3px solid red;
+
+}
+.r1{
+font-family: NEXT ART;
+font-weight: 600;
+font-size: 48px;
+color: #E4E4E4;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+margin-top: 200px;
+margin-left: 50px;
+
+}
+.r2{
+font-family: NEXT ART;
+font-weight: 700;
+font-size: 72px;
+color: #E4E4E4;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+margin-left: 50px;
+
+
+}
+.r3{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 18px;
+color: #E4E4E4;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+margin-left: 50px;
+
+
+}
+.f4{
+width: 200px;
+height: 47px;
+
+border-radius: 6px;
+background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+border: 0;
+margin-left: 50px;
+margin-top: 30px;
+}
+.f4 > a{
+text-decoration: none;
+color: black;
+font-family: NEXT ART;
+font-weight: 700;
+font-size: 18px;
+
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+
+}
+.ok2{
+background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+
+width: 1920px;
+height: 1000px;
+
+
+
+}
+
+.k{
+width: 270px;
+height: 270px;
+border-radius: 20px;
+background-color: #2D2D2D;
+margin: 50px 25px;
+}
+.l{
+display: flex;
+flex-wrap: wrap;
+}
+.f{
+width: 100px;
+margin: 30px 80px;
+}
+.g{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 24px;
+color: #E4E4E4;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+margin: 20px 70px;
+
+}
+.g1{
+color: #00C4F0;
+font-family: NEXT ART;
+font-weight: 700;
+font-size: 48px;
+
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+margin: 70px 50px;
+
+}
+.g2{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 24px;
+margin: 70px 50px;
+color: #E4E4E4;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+
+
+
+}
+.t1{
+width: 70px;
+margin: 50px 100px;
+}
+.l1{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 24px;
+margin: 20px 70px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #E4E4E4;
+
+}
+.t2{
+width: 100px;
+margin: 50px 100px;
+
+
+}
+.l2{
+font-family: Arodora Pro;
+font-weight: 300;
+font-size: 24px;
+margin: 0px 120px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #E4E4E4;
+
+}
+.k2{
+width: 270px;
+height: 270px;
+border-radius: 20px;
+background-color: #2D2D2D;
+margin: 50px 170px;
+}
+.b1{
+display: flex;
+
+}
+.k3{
+width: 270px;
+height: 270px;
+border-radius: 20px;
+background-color: #2D2D2D;
+margin-left: 50px;
+margin-top: 50px;
+}
+.k1{
+width: 270px;
+height: 270px;
+border-radius: 20px;
+background-color: #2D2D2D;
+margin-left: -80px;
+margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
