@@ -111,6 +111,7 @@ margin: 50px 25px;
 .l{
 display: flex;
 flex-wrap: wrap;
+border-radius: 20px;
 }
 .f{
 width: 100px;
